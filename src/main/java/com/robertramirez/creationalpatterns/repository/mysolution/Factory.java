@@ -1,4 +1,4 @@
-package com.robertramirez.creationalpatterns.repository.misolucion;
+package com.robertramirez.creationalpatterns.repository.mysolution;
 
 public class Factory<T> implements AbstractFactory<T> {
     @Override

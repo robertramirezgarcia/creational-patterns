@@ -1,7 +1,7 @@
 package com.robertramirez.creationalpatterns.service;
 
 import com.robertramirez.creationalpatterns.repository.*;
-import com.robertramirez.creationalpatterns.repository.misolucion.Factory;
+import com.robertramirez.creationalpatterns.repository.mysolution.Factory;
 
 public class OperacionServiceNueva {
 
